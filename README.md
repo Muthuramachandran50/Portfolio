@@ -2,7 +2,7 @@
 
 Welcome to the repository for my personal portfolio website. This website showcases my projects, technical skills, academic background, certifications, and experience as a results-driven Engineering student specializing in cloud computing, data engineering, and software development.
 
-🔗 **Live Demo:** [View my Portfolio on GitHub Pages](https://muthuramachandran50.github.io/portfolio/) *(Update with your actual URL)*
+🔗 **Live Demo:** [View my Portfolio on GitHub Pages](https://muthuramachandran50.github.io/Portfolio/)
 
 ---
 
@@ -63,8 +63,8 @@ To run this portfolio website on your local machine:
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/Muthuramachandran50/portfolio.git
-    cd portfolio
+    git clone https://github.com/Muthuramachandran50/Portfolio.git
+    cd Portfolio
     ```
 2.  Open the `index.html` file directly in any modern web browser, or serve it using a local development server like Live Server (VS Code extension) or Python's HTTP server:
     ```bash
